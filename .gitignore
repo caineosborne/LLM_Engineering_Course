@@ -57,6 +57,10 @@ cover/
 *.mo
 *.pot
 
+# Ignore the 'community-contributions' folder at any depth
+**/community-contributions/
+
+
 # Django stuff:
 *.log
 local_settings.py
